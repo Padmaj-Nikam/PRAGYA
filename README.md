@@ -8,3 +8,7 @@ For sentiment analysis : https://www.kaggle.com/datasets/nicapotato/womens-ecomm
 For trend analysis : https://www.kaggle.com/datasets/hiteshsuthar101/myntra-fashion-product-dataset
 
 *Currently the models are only trained on textile e-commerce data, we aim to train it on few more domains as well.
+
+To run:
+
+    streamlit run app.py
